@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou a Bruna, uma desenvolvedora full stack apaixonada pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou a Bruna, uma estudande desenvolvedora full stack apaixonada pelo que faz!</h1>
 <p align="center">
 <a href="https://www.instagram.com/brunarocham_/?hl=en"><img src="https://img.shields.io/badge/-@brunarocham_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/brunarocha-/"><img src="https://img.shields.io/badge/-Bruna Rocha Marques -0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
