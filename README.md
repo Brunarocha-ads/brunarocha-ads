@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou a Bruna, uma estudante desenvolvedora full stack apaixonada pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou a Bruna, uma estudante full stack muito feliz com minha escolha!</h1>
 <p align="center">
 <a href="https://www.instagram.com/brunarocham_/?hl=en"><img src="https://img.shields.io/badge/-@brunarocham_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/brunarocha-/"><img src="https://img.shields.io/badge/-Bruna Rocha Marques -0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
@@ -8,7 +8,8 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo a stack JavaScript (Node, React) para desenvolver em ambas as frentes.
+
+- 🚀 &nbsp; Atualmente, curso Análise de Desenvolvimento de Sistemas, e Full Stack, tenho como foco principal da minha carreira as áreas de desenvolvimento web. 
 - 🏎 &nbsp; Sou apaixonada por cachoeiras, viagens e costumo praticar jiujtsu e musculação no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça!
 - 💵 &nbsp; Também gosto muito de Estudar a Biblía, investimentos e relações humanas. 
 
