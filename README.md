@@ -10,7 +10,7 @@
 
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo a stack JavaScript (Node, React) para desenvolver em ambas as frentes.
 - 🏎 &nbsp; Sou apaixonada por cachoeiras, viagens e costumo praticar jiujtsu e musculação no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça!
-- 💵 &nbsp; Também gosto muito de investimentos, economia e estudar a Bíblia.
+- 💵 &nbsp; Também gosto muito de Estudar a Biblía, investimentos e relações humanas. 
 
 
 <h3>💻 &nbsp;Front-end:</h3>
